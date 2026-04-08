@@ -1,0 +1,5 @@
+{
+  "name": "v2 Chladni Plate Digital Twin",
+  "description": "An interactive physics simulation of Chladni figures, visualizing acoustic nodal patterns on a vibrating square plate using 10,000+ autonomous particles.",
+  "requestFramePermissions": []
+}
